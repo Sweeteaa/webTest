@@ -1,4 +1,4 @@
-baseURL: "https://tomatospace.pages.dev/"
+baseURL: "/"
 languageCode: "zh-cn"
 title: "番茄空间"
 theme: "hugo-profile"

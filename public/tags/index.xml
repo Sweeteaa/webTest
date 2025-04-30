@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on 番茄空间</title><link>https://tomatospace.pages.dev/tags/</link><description>Recent content in Tags on 番茄空间</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tomatospace.pages.dev/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo</title><link>https://tomatospace.pages.dev/tags/hugo/</link><pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate><guid>https://tomatospace.pages.dev/tags/hugo/</guid><description/></item><item><title>静态网站</title><link>https://tomatospace.pages.dev/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</link><pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate><guid>https://tomatospace.pages.dev/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 番茄空间</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on 番茄空间</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>静态网站</title>
+      <link>/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
