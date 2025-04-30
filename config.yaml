@@ -1,7 +1,7 @@
 baseURL: "https://sweeteaa.jpang2230.workers.dev"
 languageCode: "zh-cn"
 title: "番茄空间"
-theme: hugo-profile
+theme: "hugo-profile"
 
 outputs:
   home:
