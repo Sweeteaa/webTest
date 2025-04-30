@@ -62,7 +62,7 @@ params:
   title: "番茄空间"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/images/icon.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -113,7 +113,7 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    brandLogo: "/fav.png" # Logo for the brand | default is the favicon variable
+    brandLogo: "/images/icon.png" # Logo for the brand | default is the favicon variable
     showBrandLogo: true # Show brand logo in nav bar | default is true
     brandName: "番茄空间" # Brand name for the brand | default is the title variable
     disableSearch: true
@@ -162,9 +162,11 @@ params:
     title: "关于我/About me"
     image: "/images/me.png"
     content: |-
-      我是一位前端开发工程师，拥有两年工作经验，广州人。2023年毕业于华南理工大学广州学院，在读期间获得多次荣誉奖学金，专业排名靠前5%。
+      我是一位前端开发工程师，拥有两年工作经验，常住广州。2023年毕业于华南理工大学广州学院，在读期间获得多次荣誉奖学金，专业排名靠前5%。
       
-      在两年的工作当中参与了一个大型项目，为游艇会公司搭建了一套管理系统，包括了后台管理系统、小程序和态势大屏三个平台。项目已经逐步上线使用，收获了客户的好评。
+      在两年的工作当中参与了多个大小项目。其中主要为游艇会公司搭建了一套管理系统，包括了后台管理系统、小程序和态势大屏三个平台。项目已经逐步上线使用，收获了客户用户的一致好评。
+    
+      工作中认真完成任务，与同事交流分享技术、遇到的难点。我认为作为程序员就是“干中学，学中做”，持续进步。
     skills:
       enable: true
       title: "以下是我熟练使用的技术栈"
@@ -220,7 +222,7 @@ params:
     title: "工作成就/Achievements"
     items:
       - title: 框架搭建
-        content: 从0-1搭建小程序、大屏框架
+        content: 从0到1搭建小程序、大屏框架
         url: https://example.com
         image: /images/projects/游艇会综合态势大屏.png
       - title: 组件封装
@@ -243,8 +245,6 @@ params:
     items:
       - title: 游艇会综合管理后台
         date: "2023/04 - 2025/02"
-        content: |-
-          为游艇会开发的多端数据管理后台系统，主要由人员管理、船艇管理、码头地图和船艇预约服务模块功能组成，实现对公司的基础管理功能和其他端的数据支持。同时提供可视化数据看板，可供客户了解人员船艇数据动态走势。
         image: /images/projects/游艇会综合管理后台.png
         featured:
           name: Demo
@@ -260,9 +260,11 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/hugo-profile
+        content: |-
+          为游艇会开发的多端数据管理后台系统，主要由人员管理、船艇管理、码头地图和船艇预约服务模块功能组成，实现对公司的基础管理功能和其他端的数据支持。同时提供可视化数据看板，可供客户了解人员船艇数据动态走势。
 
       - title: 游艇会小程序
-        content:  |-
+        content: |-
           小程序主要面向会员、游客和内部工作人员。为会员提供会员中心和会员服务，如船艇预约保养服务、商城购物等；为工作人员提供服务流程跟踪、码头数据看板功能；为游客展示宣传游艇会和商城购物功能。
         image: /images/projects/游艇会小程序.jpg
         featured:
@@ -278,7 +280,7 @@ params:
             url: https://github.com/gurusabarish/converter
 
       - title: 游艇会综合态势大屏
-        content:  |-
+        content: |-
           综合态势大屏通过展示船艇码头地图实时态势、船艇码头统计图表、码头实时监控为企业更好的了解码头和船艇情况并进行管理。
         image: /images/projects/游艇会综合态势大屏.png
         featured:
@@ -303,7 +305,7 @@ params:
     content: |-
       如果您认为我符合贵公司招聘需求，欢迎联系我，期待与您沟通联系！ 
 
-      mail: 1668320581@qq.com
+      Mail: 1668320581@qq.com
     #btnName: Mail me
     #btnLink: mailto:1668320581@qq.com
     # formspree:
